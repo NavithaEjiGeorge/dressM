@@ -47,7 +47,7 @@ textSize(15);
     text("After getting the message click on it to play further..",10,60)
    text("Click these blocks to see the dresses",10,400)
 if(mousePressedOver(go)){
-  link = createA("","CLICK HERE");
+  link = createA("https://navithaejigeorge.github.io/spa/","CLICK HERE");
   link.position(30,400)
 }
 }
